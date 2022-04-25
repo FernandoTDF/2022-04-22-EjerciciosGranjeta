@@ -1,0 +1,11 @@
+console.log("avanzar");
+console.log("llenarHueco");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("llenarHueco");
+console.log("avanzar");
+console.log("removerPila");
+console.log("avanzar");
+console.log("removerPila");
+console.log("avanzar");
